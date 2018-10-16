@@ -1284,7 +1284,7 @@
                 "3.0.0-alpha1-runtime-deps-bionic-arm64v8": {},
                 "3.0-runtime-deps-bionic-arm64v8": {}
               },
-              "variant": "v7"
+              "variant": "v8"
             }
           ]
         },
@@ -1298,7 +1298,7 @@
                 "3.0.0-alpha1-runtime-bionic-arm64v8": {},
                 "3.0-runtime-bionic-arm64v8": {}
               },
-              "variant": "v7"
+              "variant": "v8"
             }
           ]
         }
